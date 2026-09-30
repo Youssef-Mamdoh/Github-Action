@@ -11,7 +11,7 @@ jobs:
   build-and-push:
     runs-on: ubuntu-latest
 
-    environment: YOUSEF
+    environment: Youssef Hammad
 
     steps:
       - name: Checkout repository
